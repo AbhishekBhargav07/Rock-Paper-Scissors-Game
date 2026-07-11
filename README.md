@@ -10,7 +10,7 @@ A responsive and interactive **Rock Paper Scissors** game built using **HTML, CS
 * 🏆 Instant win, lose, or draw results
 * 📱 Responsive design for desktop and mobile devices
 * 🎨 Clean and modern user interface
-* ⚡ Fast and lightweight with no external libraries
+* ⚡ Fast and lightweight with no external libraries.
 
 ## 🛠️ Technologies Used
 
